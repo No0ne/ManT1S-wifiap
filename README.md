@@ -5,6 +5,7 @@ Firmware for the [Silicognition ManT1S](https://mant1s.net) board that turns it 
 Wi-Fi clients and T1S nodes end up in one Ethernet broadcast domain.
 
 # Build
+Install [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html#installation), then:
 
 ```sh
 idf.py set-target esp32
