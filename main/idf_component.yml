@@ -1,0 +1,5 @@
+dependencies:
+  idf:
+    version: ">=5.2"
+  espressif/lan867x:
+    version: "^2.0.0"
